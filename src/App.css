@@ -1,0 +1,33 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+
+.App {
+  text-align: center;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+    background-color: #3ea17f;
+}
+/* .form > *{
+font-size: 1rem;
+  padding: 1rem;
+  border-radius: 3rem;
+} */
+
+/* .add_task{
+  
+  width: 60%;
+  margin-top: 5rem;
+} */
+/* .btn{
+ 
+  width: 10rem;
+
+} */
